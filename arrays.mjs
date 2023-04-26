@@ -17,6 +17,17 @@ const student = {
 
 }
 
+const student1 = {
+    rolNumber: "PIAIC9999",
+    firstName : "Shakir",
+    lastName : "Ali",
+    courses : ["Web3", "Cloud"],
+    address : {
+        city : "Karachi",
+        country : "Pakistan",
+    }
+}
+
 // }
 // // console.log(student.rollNumber)
 // // student.rollNumber = "PIAIC999999"
